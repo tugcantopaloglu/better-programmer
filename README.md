@@ -6,3 +6,4 @@ Exercises List
 -HTB
 -TryHackMe
 -HackerOne
+-BugBounty
