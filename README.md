@@ -7,3 +7,4 @@ Exercises List
 -TryHackMe
 -HackerOne
 -BugBounty
+-HTB Academy
