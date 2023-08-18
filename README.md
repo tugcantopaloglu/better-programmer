@@ -8,3 +8,5 @@ Exercises List
 -HackerOne  
 -BugBounty  
 -HTB Academy  
+
+Certifications 
