@@ -9,4 +9,12 @@ Exercises List
 -BugBounty  
 -HTB Academy  
 
-Certifications 
+**HTB Academy**
+
+**LetsDefend**   
+_**Certificates:**_
+-Malware Analysis Skill Path Completion Certificate (https://app.letsdefend.io/certificate/show/50ad9133-09e8-41c1-98fa-a47a47b515c7 )
+![cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/9d05da20-4049-4470-8819-f17fc1ebc74b)   
+
+_**Badges:**_
+-
