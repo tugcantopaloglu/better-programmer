@@ -86,6 +86,90 @@ _**Certificates (Click on the links to verify and see more details):**_
 
 _**Badges (Click on the badges to verify and see more details):**_   
 
+<table>
+  <tr>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/31a80d8b-89d8-48d0-92f1-23622fdda00f'><img src='letsdefend-img/3.png' width='150'></a>
+      <p><strong>Phishing Expert</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Phishing Campaign Analysis" course</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/b7a453f4-feaf-4720-8c44-5d3f8f5ade6d'><img src='letsdefend-img/ckc-badge.png' width='150'></a>
+      <p><strong>Cyber Kill Chain</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Cyber Kill Chain" course</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/5234bca1-6a19-439a-aebd-e94323efe5f4'><img src='letsdefend-img/dynamic-avatar.png' width='150'></a>
+      <p><strong>Dynamic Analyst</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Dynamic Malware Analysis" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/33637d5a-ed86-4203-bb31-75332f0c8b8f'><img src='letsdefend-img/lab-build-badge-avatar.png' width='150'></a>
+      <p><strong>Lab Builder</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Building a Malware Analysis Lab" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/c46dc3c3-a8be-49c5-8ea4-8f779b06e847'><img src='letsdefend-img/mal-doc-badge.png' width='150'></a>
+      <p><strong>Office Document Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Malicious Document Analysis" course</p>
+</td>
+  </tr>
+  <tr>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/59909e7a-0373-4c2b-a85f-a75326ad9e51'><img src='letsdefend-img/malware-analysis-badge.png' width='150'></a>
+      <p><strong>Malware Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Malware Analysis Fundamentals" course</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/77222aee-997b-48fa-9ee2-60eeff8252a5'><img src='letsdefend-img/malware-skill-badge.png' width='150'></a>
+      <p><strong>Malware Analysis Skill Path</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Malware Analysis" skill path</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/83dc5425-34d7-4ce1-bfef-9765ee557390'><img src='letsdefend-img/mitre-badge-2.png' width='150'></a>
+      <p><strong>MITRE ATT&CK</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "MITRE ATT&CK Framework" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/3e4f972a-6e33-4bab-84cf-cc646f5f486e'><img src='letsdefend-img/network-fundamentals-badge-avatar.png' width='150'></a>
+      <p><strong>Network Cable</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Fundamentals" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/fad421bc-86b7-4d90-a908-391e3e1d90bc'><img src='letsdefend-img/phishing-challenge-avatart_vQ1645S.png' width='150'></a>
+      <p><strong>Phishing Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Phishing Email" challenge</p>
+</td>
+  </tr>
+    <tr>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/51e91d7c-ef66-4d81-9d99-c63e10ec1094'><img src='letsdefend-img/port-scan-avatar.png' width='150'></a>
+      <p><strong>Detector</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Port Scan Activity" challenge</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/79235796-45c4-4794-8cff-ca2b9b5ffb8d'><img src='letsdefend-img/powershell-badge.png' width='150'></a>
+      <p><strong>PowerShell Script</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "PowerShell Script" challenge</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/21941fc1-b9bf-4574-ab94-06435d931cf9'><img src='letsdefend-img/rev-2-badge.png' width='150'></a>
+      <p><strong>Reverser - 2</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Reverse Engineering - 2" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/413f8ee0-3074-4c29-9404-2deb2f303d00'><img src='letsdefend-img/rev-badge.png' width='150'></a>
+      <p><strong>Reverser</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Reverse Engineering" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/0efa1a88-a467-4c6f-a43a-b8733648cdb8'><img src='letsdefend-img/shellshock-avatar_qzcN1wq.png' width='150'></a>
+      <p><strong>Shocker</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Shellshock Attack" challenge</p>
+</td>
+  </tr>
+</table>
+
 **TryHackMe**
 _**Certificates (Click on the certificates to verify and see more details):**_   
 
