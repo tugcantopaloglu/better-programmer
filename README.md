@@ -168,6 +168,33 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p>Tuğcan Topaloğlu has completed the "Shellshock Attack" challenge</p>
 </td>
   </tr>
+      <tr>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/413f8ee0-3074-4c29-9404-2deb2f303d00'><img src='letsdefend-img/soc-fundamentals-badge.png' width='150'></a>
+      <p><strong>SOC Member</strong></p>
+      <p>Tuğcan Topaloğlu has completed the SOC Fundamentals course</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/d51130ee-91f2-4ad3-ba3c-8788c2f8d28c'><img src='letsdefend-img/static-malware-badge.png' width='150'></a>
+      <p><strong>VirusTotal</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "VirusTotal for SOC Analysts" course</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/ec373cd3-ab17-435d-a999-7649617f1633'><img src='letsdefend-img/virustotal-for-soc-analysts-badge.png' width='150'></a>
+      <p><strong>Reverser - 2</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Reverse Engineering - 2" course</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/413f8ee0-3074-4c29-9404-2deb2f303d00'><img src='letsdefend-img/web-avatar.png' width='150'></a>
+      <p><strong>Web Attack Investigated</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Investigate Web Attack" challenge</p>
+</td>
+    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/0efa1a88-a467-4c6f-a43a-b8733648cdb8'><img src='letsdefend-img/wireshark-avatar.png' width='150'></a>
+      <p><strong>Wireshark Expert</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Malware Traffic Analysis with Wireshark" course</p>
+</td>
+  </tr>
 </table>
 
 **TryHackMe**
