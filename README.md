@@ -195,6 +195,13 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p>Tuğcan Topaloğlu has completed the "Malware Traffic Analysis with Wireshark" course</p>
 </td>
   </tr>
+        <tr>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/2cc7d9d9-1dba-45cb-897e-a489f1dc086b'><img src='letsdefend-img/first-badge-6529e305-65c7-41fe-a929-c728f1bee986.png' width='150'></a>
+      <p><strong>First Blood</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated the first incident.</p>
+</td>
+  </tr>
 </table>
 
 **TryHackMe**
