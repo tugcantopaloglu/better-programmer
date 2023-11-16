@@ -201,6 +201,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>First Blood</strong></p>
       <p>Tuğcan Topaloğlu has completely investigated the first incident.</p>
 </td>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/4173d3f4c6e24815906a7042abfb0a56'><img src='letsdefend-img/first-badge-6529e305-65c7-41fe-a929-c728f1bee986.png' width='150'></a>
+      <p><strong>Incident Handler</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated 5 different incidents.</p>
+</td>
   </tr>
 </table>
 
