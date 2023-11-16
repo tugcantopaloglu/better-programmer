@@ -201,6 +201,16 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>First Blood</strong></p>
       <p>Tuğcan Topaloğlu has completely investigated the first incident.</p>
 </td>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/4173d3f4c6e24815906a7042abfb0a56'><img src='letsdefend-img/lionv1.png' width='150'></a>
+      <p><strong>Incident Handler</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated 5 different incidents.</p>
+</td>
+                    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/bb02a8d601644999a13540451f059be5'><img src='letsdefend-img/lionv1.png' width='150'></a>
+      <p><strong>Web Attack Investigator</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Investigating Web Attacks as SOC Analyst" course.</p>
+</td>
   </tr>
 </table>
 
