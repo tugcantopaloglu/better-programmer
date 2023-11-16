@@ -211,6 +211,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Web Attack Investigator</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Investigating Web Attacks as SOC Analyst" course.</p>
 </td>
+                    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/e32dfbf22d934429a6ea4c81e73dd8f4'><img src='letsdefend-img/web-hunter.png' width='150'></a>
+      <p><strong>Web Hunter</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Detecting Web Attacks - 2" course.</p>
+</td>
   </tr>
 </table>
 
