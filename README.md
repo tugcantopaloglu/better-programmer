@@ -216,6 +216,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Web Hunter</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Detecting Web Attacks - 2" course.</p>
 </td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/0983ea4683ae45c392aed97bf335ac22'><img src='letsdefend-img/mshtml.png' width='150'></a>
+      <p><strong>MSHTML Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "MSHTML" challenge.</p>
+</td>
   </tr>
 </table>
 
