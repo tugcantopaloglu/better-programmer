@@ -229,6 +229,16 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Incident Handler</strong></p>
       <p>Tuğcan Topaloğlu has completed the "IT Security Basis for Corporates" course.</p>
 </td>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/82ac5d56-1195-4627-ade1-0aae6d29d1d9'><img src='letsdefend-img/avatar-log-badge-26f2fa0d-5256-490f-92be-d34edd73227e.png' width='150'></a>
+      <p><strong>Network Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Analysis" course.</p>
+</td>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/72b77c68-3fa8-463c-b6d1-4561e27e32e0'><img src='letsdefend-img/siem-badge-avatar-c5ab3e19-5da3-4ee9-89dc-a11c8788a592.png' width='150'></a>
+      <p><strong>SIEM 101</strong></p>
+      <p>Tuğcan Topaloğlu has completed the SIEM 101 course.</p>
+</td>
   </tr>
 </table>
 
