@@ -239,6 +239,16 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>SIEM 101</strong></p>
       <p>Tuğcan Topaloğlu has completed the SIEM 101 course.</p>
 </td>
+                    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/60c7d551-814d-4afe-88b9-1442628e6908'><img src='letsdefend-img/lionv2-b0ec839b-6a93-424f-8e2e-aa1d42a8eb23.png' width='150'></a>
+      <p><strong>Incident Handler - 2</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated 10 different incidents</p>
+</td>
+                    <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/c9ad85b1-647c-40a6-a254-5208c95462ae'><img src='letsdefend-img/soc-lab-avatar-fc29f3e3-8d51-46b8-97fc-6c22a87447f8.png' width='150'></a>
+      <p><strong>Lab Builder</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Building a SOC Lab at Home" course</p>
+</td>
   </tr>
 </table>
 
