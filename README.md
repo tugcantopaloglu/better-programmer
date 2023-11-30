@@ -82,7 +82,8 @@ _**Badges (Click on the badges to verify and see more details):**_
 **LetsDefend**   
 _**Certificates (Click on the links to verify and see more details):**_   
 -SOC Analyst Certification    ( https://app.letsdefend.io/certificate/show/ae864c32-3430-4653-b7f4-4075754dd1df )
-![cert2](https://github.com/tugcantopaloglu/better-programmer/letsdefend-img/soc-cert.png)
+![soc-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/c6d652d5-d85c-4ba5-8c85-68af911d73a7)
+
 -Malware Analysis Certificate    (https://app.letsdefend.io/certificate/show/50ad9133-09e8-41c1-98fa-a47a47b515c7 )
 ![cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/9d05da20-4049-4470-8819-f17fc1ebc74b)   
 
