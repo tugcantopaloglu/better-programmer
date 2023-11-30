@@ -252,27 +252,27 @@ _**Badges (Click on the badges to verify and see more details):**_
   </tr>
           <tr>
           <td align="center">
-<a href='https://app.letsdefend.io/my-badges/detail/533e6db0-4628-47da-a622-7b5f6f75a5e6'><img src='letsdefend-img/it-sec-badge-avatar.png' width='150'></a>
+<a href='https://app.letsdefend.io/my-badges/detail/533e6db0-4628-47da-a622-7b5f6f75a5e6'><img src='letsdefend-img/cti-badge-avatar.png' width='150'></a>
       <p><strong>Threat Analyst</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Cyber Threat Intelligence" course.</p>
 </td>
           <td align="center">
-<a href='https://app.letsdefend.io/my-badges/detail/1d49839c-7efa-48ea-9e22-a5b0cd773be2'><img src='letsdefend-img/avatar-log-badge-26f2fa0d-5256-490f-92be-d34edd73227e.png' width='150'></a>
+<a href='https://app.letsdefend.io/my-badges/detail/1d49839c-7efa-48ea-9e22-a5b0cd773be2'><img src='letsdefend-img/security-solution-badge.png' width='150'></a>
       <p><strong>Security Solutions</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Security Solutions" course.</p>
 </td>
           <td align="center">
-<a href='https://app.letsdefend.io/my-badges/detail/f5a0375f-2fe3-46e9-852f-853a072173f5'><img src='letsdefend-img/siem-badge-avatar-c5ab3e19-5da3-4ee9-89dc-a11c8788a592.png' width='150'></a>
+<a href='https://app.letsdefend.io/my-badges/detail/f5a0375f-2fe3-46e9-852f-853a072173f5'><img src='letsdefend-img/brute-force-badge.png' width='150'></a>
       <p><strong>Brute Force</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Detecting Brute Force Attacks" course.</p>
 </td>
                     <td align="center">
-<a href='https://app.letsdefend.io/my-badges/detail/816cf8e9-3297-4554-9454-483487a6dd29'><img src='letsdefend-img/lionv2-b0ec839b-6a93-424f-8e2e-aa1d42a8eb23.png' width='150'></a>
+<a href='https://app.letsdefend.io/my-badges/detail/816cf8e9-3297-4554-9454-483487a6dd29'><img src='letsdefend-img/soc-path-badge.png' width='150'></a>
       <p><strong>SOC Analyst Learning Path</strong></p>
       <p>Tuğcan Topaloğlu has completed the "SOC Analyst Learning Path".</p>
 </td>
                     <td align="center">
-<a href='https://app.letsdefend.io/my-badges/detail/12c46d3c-c1a1-4e1f-83ca-0888ed015484'><img src='letsdefend-img/soc-lab-avatar-fc29f3e3-8d51-46b8-97fc-6c22a87447f8.png' width='150'></a>
+<a href='https://app.letsdefend.io/my-badges/detail/12c46d3c-c1a1-4e1f-83ca-0888ed015484'><img src='letsdefend-img/splunk-badge-avatar.png' width='150'></a>
       <p><strong>Splunk Engineer</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Splunk" course.</p>
 </td>
