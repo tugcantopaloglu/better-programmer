@@ -280,6 +280,13 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p>Tuğcan Topaloğlu has completed the "Splunk" course.</p>
 </td>
   </tr>
+            <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/26bf2e8b-6594-4198-aa91-7005c08a58e1'><img src='letsdefend-img/ims-avatar.png' width='150'></a>
+      <p><strong>Incident Management</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Incident Management 101" course.</p>
+</td>
+  </tr>
 </table>
 
 **TryHackMe**
