@@ -286,6 +286,10 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Incident Management</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Incident Management 101" course.</p>
 </td>
+<a href='https://app.letsdefend.io/my-badges/detail/22c5e8af4ca2492abdd454d9fc6a7f6a'><img src='letsdefend-img/report-badge-avatar.png' width='150'></a>
+      <p><strong>Reporter</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Writing a Report on Security Incident" course.</p>
+</td>
   </tr>
 </table>
 
