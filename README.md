@@ -76,6 +76,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Developer</strong></p>
       <p>For completing the Introduction to Web Applications module</p>
 </td>
+      <td align="center">
+<a href='https://academy.hackthebox.com/achievement/badge/af029c9f-903d-11ee-bfb6-bea50ffe6cb4'><img src='htb-img/included-in-every-report.png' width='150'></a>
+      <p><strong>Included in every report</strong></p>
+      <p>For completing the Cross-Site Scripting (XSS) module</p>
+</td>
   </tr>
 </table>
 
