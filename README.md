@@ -296,6 +296,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Reporter</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Writing a Report on Security Incident" course.</p>
 </td>
+  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/c264a22a-7e4d-4512-8ca3-d61915333189'><img src='letsdefend-img/cyber-inc-badge.png' width='150'></a>
+      <p><strong>Cyber Incident Handler</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Cybersecurity Incident Handling Guide" course.</p>
+</td>
   </tr>
 </table>
 
