@@ -301,6 +301,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Cyber Incident Handler</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Cybersecurity Incident Handling Guide" course.</p>
 </td>
+                <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/7b2e8769bce241c6861c56a104d49c68'><img src='letsdefend-img/windows-response-badge.png' width='150'></a>
+      <p><strong>Responder - Windows</strong></p>
+      <p>Tuğcan Topaloğlu has completed the Windows Incident Response course.</p>
+</td>
   </tr>
 </table>
 
