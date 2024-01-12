@@ -81,11 +81,19 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Included in every report</strong></p>
       <p>For completing the Cross-Site Scripting (XSS) module</p>
 </td>
+            <td align="center">
+<a href='https://academy.hackthebox.com/achievement/badge/4fc9db8e-b11d-11ee-bfb6-bea50ffe6cb4'><img src='htb-img/drop-your-weapon.png' width='150'></a>
+      <p><strong>DROP your weapon</strong></p>
+      <p>For completing the SQL Injection Fundamentals module</p>
+</td>
   </tr>
 </table>
 
 **LetsDefend**   
 _**Certificates (Click on the links to verify and see more details):**_   
+-Incident Responder Certification   ( https://app.letsdefend.io/certificate/show/c70a2f5d-a613-48d2-be25-e24ab0614e94 )
+![incident-responder-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/7985dca4-16e1-46ea-a28e-e417dfeba3e4)
+
 -SOC Analyst Certification    ( https://app.letsdefend.io/certificate/show/ae864c32-3430-4653-b7f4-4075754dd1df )
 ![soc-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/c6d652d5-d85c-4ba5-8c85-68af911d73a7)
 
@@ -305,6 +313,72 @@ _**Badges (Click on the badges to verify and see more details):**_
 <a href='https://app.letsdefend.io/my-badges/detail/7b2e8769bce241c6861c56a104d49c68'><img src='letsdefend-img/windows-response-badge.png' width='150'></a>
       <p><strong>Responder - Windows</strong></p>
       <p>Tuğcan Topaloğlu has completed the Windows Incident Response course.</p>
+</td>
+              <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/cf78149c-27ca-4a3f-8d4c-56012fd0238a'><img src='letsdefend-img/linux-responder-6a8b2652-c294-485c-8a2c-8d165a5dd340.png' width='150'></a>
+      <p><strong>Responder - Linux</strong></p>
+      <p>Tuğcan Topaloğlu has completed the Linux Incident Response course.</p>
+</td>
+  </tr>
+              <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/64e8a8ec-bb19-445a-a44e-532386651a88'><img src='letsdefend-img/hacked-analysis-badge-avatar-4c433f26-e83b-4e2a-8401-3fb32b1fa093.png' width='150'></a>
+      <p><strong>Web Server Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Hacked Web Server Analysis" course.</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/70da5da3-93fd-493f-823e-3f1f251226a5'><img src='letsdefend-img/acq-badge-0c7e6f2c-db5f-4c1c-ba95-b975722cfb52.png' width='150'></a>
+      <p><strong>Acquisitioner</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Forensic Acquisition and Triage" course.</p>
+</td>
+  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/e3eca156-cbab-418a-808f-5050a98ce5f8'><img src='letsdefend-img/memory-forensics-badge-avatar-8691b8fd-1c45-4d3a-83bd-f6c1af4d89e1.png' width='150'></a>
+      <p><strong>Memory Forensics</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Memory Forensics" course.</p>
+</td>
+                <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/a68ce8b1-81be-41cd-a58e-db9af4028265'><img src='letsdefend-img/registry-forensics-badge-459dcee9-5284-4663-a174-0d5c3c43c6f6.png' width='150'></a>
+      <p><strong>Registry Forensics</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Windows Registry Forensics" course.</p>
+</td>
+              <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/1a4fa428-feb3-4718-8c9e-d6bdac59ce4e'><img src='letsdefend-img/event-log-analysis-badge-avatar-47bc51bf-16ef-4343-8912-50a22feda072.png' width='150'></a>
+      <p><strong>Event Log Hunter</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Event Log Analysis" course.</p>
+</td>
+  </tr>
+                <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/c799a96d-048d-4e90-a2f2-3e01a0ee1361'><img src='letsdefend-img/browser-forensics-badge-0df0d712-1275-49e3-bee0-bdd2f015d9e0.png' width='150'></a>
+      <p><strong>Browser Checker</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Browser Forensics" course.</p>
+</td>
+<td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/c7933ede-af09-4290-aff0-c19a693d47db'><img src='letsdefend-img/gtfo-badge-avatar-8f4b1787-6f6c-4cb3-a723-a4c70ed72c21.png' width='150'></a>
+      <p><strong>Linux Hunter</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "GTFOBins" course.</p>
+</td>
+  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/446de44c-7b00-4529-8956-30509e4088b0'><img src='letsdefend-img/ad-attack-badge-b193ea40-84c3-46b7-870d-f66a551e7c59.png' width='150'></a>
+      <p><strong>AD Investigator</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Hunting AD Attacks" course.</p>
+</td>
+                <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/d5aa4499-edd9-46b6-a59a-dee86a96d920'><img src='letsdefend-img/crisis-avatar-c9c9dfe7-6e47-4077-80ef-bcb482fb6965.png' width='150'></a>
+      <p><strong>Crisis Planner</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "How to Prepare a Cyber Crisis Management Plan?" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/be1b7a55-d1bb-46e7-906f-97357f4c128a'><img src='letsdefend-img/hunter-mascot-aada9c5f-ca0a-455e-9cb3-f5b105661ca8.png' width='150'></a>
+      <p><strong>Hunter</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated 30 different incidents.</p>
+</td>
+  </tr>
+                  <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/6f343b19-e94c-4fef-818c-d3f4a3d2ca41'><img src='letsdefend-img/ir-path-badge-2efa4ec6-6363-40c5-ab31-6b7d21fe65f9.png' width='150'></a>
+      <p><strong>Incident Responder Path</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Incident Responder Path".</p>
 </td>
   </tr>
 </table>
