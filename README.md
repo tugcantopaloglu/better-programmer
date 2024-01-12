@@ -385,6 +385,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Sysmoner</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Log Analysis with Sysmon" course.</p>
 </td>
+                                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/d51130ee-91f2-4ad3-ba3c-8788c2f8d28c'><img src='letsdefend-img/static-malware-badge.png' width='150'></a>
+      <p><strong>Static Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Static Malware Analysis" course.</p>
+</td>
   </tr>
 </table>
 
