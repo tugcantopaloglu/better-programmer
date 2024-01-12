@@ -395,6 +395,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Browser Extension Analyzer</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Suspicious Browser Extension" challenge.</p>
 </td>
+                                                                                          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/dc79c65d-6073-43b9-ad80-ab4d819cb067'><img src='letsdefend-img/ram-avatar-35637289-b5d6-491d-a82e-9262322b3984.png' width='150'></a>
+      <p><strong>Memory Dumper</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Memory Analysis" challenge.</p>
+</td>
   </tr>
 </table>
 
