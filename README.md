@@ -390,6 +390,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Static Analyzer</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Static Malware Analysis" course.</p>
 </td>
+                                                                      <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/4fd0db72-a1b1-42df-9a72-f8b186c0e40a'><img src='letsdefend-img/suspicious-browser-extension-badge-cd7872ab-e178-4a1e-91ee-92eccd0cf809.png' width='150'></a>
+      <p><strong>Browser Extension Analyzer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Suspicious Browser Extension" challenge.</p>
+</td>
   </tr>
 </table>
 
