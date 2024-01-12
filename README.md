@@ -242,7 +242,7 @@ _**Badges (Click on the badges to verify and see more details):**_
         <tr>
           <td align="center">
 <a href='https://app.letsdefend.io/my-badges/detail/df9396e642204d71b09584e86365e892'><img src='letsdefend-img/it-sec-badge-avatar.png' width='150'></a>
-      <p><strong>Incident Handler</strong></p>
+      <p><strong>IT Security Expert</strong></p>
       <p>Tuğcan Topaloğlu has completed the "IT Security Basis for Corporates" course.</p>
 </td>
           <td align="center">
