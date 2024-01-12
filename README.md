@@ -380,6 +380,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Incident Responder Path</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Incident Responder Path".</p>
 </td>
+                              <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/2de630ea-4597-4a03-89d9-ddc282e4703b'><img src='letsdefend-img/sysmon-badge-ca936b36-55fe-4278-b07b-9e3a680069d0.png' width='150'></a>
+      <p><strong>Sysmoner</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Log Analysis with Sysmon" course.</p>
+</td>
   </tr>
 </table>
 
