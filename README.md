@@ -407,6 +407,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Hunter - 2</strong></p>
       <p>Tuğcan Topaloğlu has completely investigated 50 different incidents.</p>
 </td>
+                                <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/b22f7612de8042e1a06b69b0e321bf3e'><img src='letsdefend-img/non-stop-mascot-727838bb-f046-46ff-9d94-54866aba202b.png' width='150'></a>
+      <p><strong>Non-Stop</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated 65 different incidents.</p>
+</td>
   </tr>
 </table>
 
