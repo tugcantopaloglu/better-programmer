@@ -401,6 +401,13 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p>Tuğcan Topaloğlu has completed the "Memory Analysis" challenge.</p>
 </td>
   </tr>
+                    <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/b203f04583ee4074ac41d95d847b530c'><img src='letsdefend-img/hunter-2-mascot-a5a201a0-24c1-485f-ad08-0d0dca6e62e6.png' width='150'></a>
+      <p><strong>Hunter - 2</strong></p>
+      <p>Tuğcan Topaloğlu has completely investigated 50 different incidents.</p>
+</td>
+  </tr>
 </table>
 
 **TryHackMe**
