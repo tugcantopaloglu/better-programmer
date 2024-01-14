@@ -412,6 +412,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Non-Stop</strong></p>
       <p>Tuğcan Topaloğlu has completely investigated 65 different incidents.</p>
 </td>
+                                                      <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/75821ecd661d46af886f2c5042cc7821'><img src='letsdefend-img/web-log-avatar.png' width='150'></a>
+      <p><strong>Web Expert</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "HTTP Basic Authentication" challenge.</p>
+</td>
   </tr>
 </table>
 
