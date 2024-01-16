@@ -420,6 +420,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Web Expert</strong></p>
       <p>Tuğcan Topaloğlu has completed the "HTTP Basic Authentication" challenge.</p>
 </td>
+                                                                            <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/b75828ba-4888-44c9-a3a1-b25b906c88a9'><img src='letsdefend-img/malicious-doc-avatar.png' width='150'></a>
+      <p><strong>Suspicious File Finder</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Malicious Doc" challenge.</p>
+</td>
   </tr>
 </table>
 
