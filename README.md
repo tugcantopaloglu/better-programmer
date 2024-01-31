@@ -442,6 +442,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Windows User</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Windows Fundamentals" course.</p>
 </td>
+                        <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/20eb7ca4-d994-43f3-b5a3-1ceb19ab83c7'><img src='letsdefend-img/network-fun-2-badge.png' width='150'></a>
+      <p><strong>Network Engineer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Fundamentals II" course.</p>
+</td>
   </tr>
 </table>
 
