@@ -425,6 +425,23 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Suspicious File Finder</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Malicious Doc" challenge.</p>
 </td>
+                                                                                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/aee43815-637d-443a-b602-1238dddb9228'><img src='letsdefend-img/xls-file-avatar.png' width='150'></a>
+      <p><strong>XLS Detector</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Remote Working" challenge.</p>
+</td>
+  </tr>
+                      <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/1dbe8d30-9b35-4631-9b27-e033b6370e72'><img src='letsdefend-img/badge-avatar-job-hunting.png' width='150'></a>
+      <p><strong>Job Hunter</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Job Hunting" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/ff6b9708-dff1-47c2-8f4d-663168f5f6a9'><img src='letsdefend-img/win101-avatar.png' width='150'></a>
+      <p><strong>Windows User</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Windows Fundamentals" course.</p>
+</td>
   </tr>
 </table>
 
