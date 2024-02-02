@@ -103,6 +103,9 @@ _**Certificates (Click on the links to verify and see more details):**_
 -Security Analyst Certification ( https://app.letsdefend.io/certificate/show/138b099c-b476-4725-bca7-082ae8d9845f )
 ![all-soc-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/13d78c7b-bc82-435d-98e3-5e44c86fa38b)
 
+-Cybersecurity for Students Certification ( https://app.letsdefend.io/certificate/show/e2227de0-b024-4af5-ae48-79279bff87b4 )
+![student-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/bace9b67-be26-4d69-85c5-031804c33003)
+
 _**Badges (Click on the badges to verify and see more details):**_   
 
 <table>
@@ -446,6 +449,29 @@ _**Badges (Click on the badges to verify and see more details):**_
 <a href='https://app.letsdefend.io/my-badges/detail/20eb7ca4-d994-43f3-b5a3-1ceb19ab83c7'><img src='letsdefend-img/network-fun-2-badge.png' width='150'></a>
       <p><strong>Network Engineer</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Network Fundamentals II" course.</p>
+</td>
+                                                <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/b9ff8c8dd93a49238c05df90780c5909'><img src='letsdefend-img/network-protocols-2-badge-avatar.png' width='150'></a>
+      <p><strong>Protocol Handler</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Protocols - 2" course.</p>
+</td>
+                                                <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/ed1c14550f5d499ebef9a3e20589a691'><img src='letsdefend-img/network-protocols-badge.png' width='150'></a>
+      <p><strong>Protocol Engineer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Protocols" course.</p>
+</td>
+  </tr>
+  
+                      <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/cd20d3f5d46445b59d1a2e11fa7bbae9'><img src='letsdefend-img/Cryptographer-avatar.png' width='150'></a>
+      <p><strong>Cryptographer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Introduction to Cryptology" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/a9d3956a56b24982a74914dc779e9605'><img src='letsdefend-img/badge-linux-101.png' width='150'></a>
+      <p><strong>Linux Fan</strong></p>
+      <p>Tuğcan Topaloğlu has completed the Linux for Cybersecurity course.</p>
 </td>
   </tr>
 </table>
