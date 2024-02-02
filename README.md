@@ -473,6 +473,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Linux Fan</strong></p>
       <p>Tuğcan Topaloğlu has completed the Linux for Cybersecurity course.</p>
 </td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/81c6740b-d481-4905-b34d-3173c6b9925f'><img src='letsdefend-img/cybersecurity-for-students-badge.png' width='150'></a>
+      <p><strong>Cybersecurity for Students</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Cybersecurity for Students" path.</p>
+</td>
   </tr>
 </table>
 
