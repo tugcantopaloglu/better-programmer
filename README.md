@@ -100,7 +100,11 @@ _**Certificates (Click on the links to verify and see more details):**_
 -Malware Analysis Certificate  ( https://app.letsdefend.io/certificate/show/50ad9133-09e8-41c1-98fa-a47a47b515c7 )
 ![cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/9d05da20-4049-4470-8819-f17fc1ebc74b)   
 
--Security Analyst Certification ( https://app.letsdefend.io/certificate/show/138b099c-b476-4725-bca7-082ae8d9845f )
+-Incident Responder Practical Certification ( https://app.letsdefend.io/certificate/show/7dcb582d-5447-4e09-926b-62bc2a865dee )
+![all-incident-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/e109da55-2c3c-4a6c-bfa0-1d054daa1601)
+
+
+-Security Analyst Practical Certification ( https://app.letsdefend.io/certificate/show/138b099c-b476-4725-bca7-082ae8d9845f )
 ![all-soc-cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/13d78c7b-bc82-435d-98e3-5e44c86fa38b)
 
 -Cybersecurity for Students Certification ( https://app.letsdefend.io/certificate/show/e2227de0-b024-4af5-ae48-79279bff87b4 )
