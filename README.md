@@ -482,6 +482,185 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Cybersecurity for Students</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Cybersecurity for Students" path.</p>
 </td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/6f73877d-19f8-4a2b-9031-f1b184b36df0'><img src='letsdefend-img/into-net-badge.png' width='150'></a>
+      <p><strong>Network Security</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Security" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/ca0df3e7-2b32-4e37-aa1b-e164e39bd24b'><img src='letsdefend-img/network-design-sec-pro-badge_1-2c7d09a8-4045-426e-8d73-7ff0a2132c6d.png' width='150'></a>
+      <p><strong>Network Security Designer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Network Design and Security Products" course.</p>
+</td>
+  </tr>
+                        <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/f5ed19c5-949b-4d61-a740-c055a9829a46'><img src='letsdefend-img/secure-network-design-badge-8d746f5e-9ec2-4790-9227-f1c48207b21a.png' width='150'></a>
+      <p><strong>Secure Network Designer</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Secure Network Design" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/b847c612-519d-4fdc-a049-1fe64b78c6ba'><img src='letsdefend-img/intro-system-sec-badge.png' width='150'></a>
+      <p><strong>Introduction to System Security</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Introduction to System Security" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/263b8a15-a4e1-4a7b-958b-fd6d083f423f'><img src='letsdefend-img/system-sec-2-badge.png' width='150'></a>
+      <p><strong>Introduction to System Security - 2</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Introduction to System Security - 2" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/f514a19e-da03-41f6-bafd-f2b60a247ce2'><img src='letsdefend-img/auth-autz-badge.png' width='150'></a>
+      <p><strong>Authentication and Authorization</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Authentication and Authorization" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/78eb972f-f1d7-491e-8143-202bcc4783e4'><img src='letsdefend-img/password-management-badge.png' width='150'></a>
+      <p><strong>Password Management</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Password Management" course.</p>
+</td>
+  </tr>
+                          <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/27933d49-2cd7-43cd-8893-fe74a5ab4ce5'><img src='letsdefend-img/win-system-sec-badge.png' width='150'></a>
+      <p><strong>Windows System Security</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Windows System Security" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/bbdea3f9-7c52-4434-ac24-9a9605904c0b'><img src='letsdefend-img/win-2-sec-badge.png' width='150'></a>
+      <p><strong>Windows System Security - 2</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Windows System Security - 2" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/933d4f9e-dd54-4036-8686-bbaf7f800e04'><img src='letsdefend-img/linux-sec-badge.png' width='150'></a>
+      <p><strong>Linux/Unix System Security</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Linux/Unix System Security" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/4cb956a0-0603-43fd-86f4-fb9f3bb018d0'><img src='letsdefend-img/adv-linux-sec.png' width='150'></a>
+      <p><strong>Advanced Linux/Unix System Security</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Advanced Linux/Unix System Security" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/55fa5081-5c4c-4147-ae28-d226b55cf824'><img src='letsdefend-img/bash-1-badge.png' width='150'></a>
+      <p><strong>Introduction to Bash Scripting</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Introduction to Bash Scripting" course.</p>
+</td>
+  </tr>
+                            <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/23961093-1f56-42a7-9647-113fcecb5c8a'><img src='letsdefend-img/adv-bash-badge.png' width='150'></a>
+      <p><strong>Advanced Bash Scripting</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Advanced Bash Scripting" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/51603c19-cbda-4d53-9e59-b1a5bacd0ab7'><img src='letsdefend-img/bash-3-badge-e559e40a-f2b6-40d7-b40b-c3695cd96d73.png' width='150'></a>
+      <p><strong>Bash Scripting for Blue Team</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Bash Scripting for Blue Team" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/91bb2cb9-6148-429e-8e75-b557b7b099fc'><img src='letsdefend-img/powershell-1-badge.png' width='150'></a>
+      <p><strong>Introduction to PowerShell</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Introduction to PowerShell" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/2ffeadeb-082e-45f7-8c86-861d6898b25e'><img src='letsdefend-img/ps2-badge.png' width='150'></a>
+      <p><strong>PowerShell for Analysis</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "PowerShell for Analysis" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/664407b0-4ee3-45d7-9ba3-f6a6deb80861'><img src='letsdefend-img/ps3-badge.png' width='150'></a>
+      <p><strong>Advanced PowerShell for Blue Team</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Advanced PowerShell for Blue Team" course.</p>
+</td>
+  </tr>
+                              <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/d1afac39-db8d-4200-9f45-9996a886455b'><img src='letsdefend-img/py-badge.png' width='150'></a>
+      <p><strong>Introduction to Python</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Introduction to Python" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/e8e369b6-0745-4204-9310-9f217b7363df'><img src='letsdefend-img/py2-badge.png' width='150'></a>
+      <p><strong>Python for Blue Team</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Python for Blue Team" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/d71fe47c-d515-4f1d-9e36-0b51952b53b1'><img src='letsdefend-img/asm-badge.png' width='150'></a>
+      <p><strong>Attack Surface Management</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Attack Surface Management" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/cb531c9f-61d6-466f-99bd-26dc94bb0297'><img src='letsdefend-img/cti-badge.png' width='150'></a>
+      <p><strong>Cyber Threat Intelligence for Detection</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Cyber Threat Intelligence for Detection" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/7b26540c-98d5-43da-af8d-ae9ced15e0ff'><img src='letsdefend-img/vm-badge.png' width='150'></a>
+      <p><strong>Vulnerability Management</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Vulnerability Management" course.</p>
+</td>
+  </tr>
+                                <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/3de36a5a-01bb-403f-8abc-937130e3eb56'><img src='letsdefend-img/edr-1-badge.png' width='150'></a>
+      <p><strong>XDR-EDR Basics</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "XDR-EDR Basics" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/9c715ff6-0048-4d7a-9c61-84d1d58eb2bc'><img src='letsdefend-img/edr-badge.png' width='150'></a>
+      <p><strong>XDR/EDR Threat Analysis & Custom Rule</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "XDR/EDR Threat Analysis & Custom Rule" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/29774fbe-31aa-4baf-9303-bb764664b0f2'><img src='letsdefend-img/edr-3-badge.png' width='150'></a>
+      <p><strong>Threat Hunting and IR with XDR/EDR</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Threat Hunting and IR with XDR/EDR" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/00d7eefc-6648-44f9-b0c8-8f4ffc398e05'><img src='letsdefend-img/siem-1-badge.png' width='150'></a>
+      <p><strong>SIEM Basics, Installation and Configuration</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "SIEM Basics, Installation and Configuration" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/841ec16d-ccf3-4e9c-9bac-f5b4a3070cdb'><img src='letsdefend-img/siem2-badge.png' width='150'></a>
+      <p><strong>SIEM Log Collection and Parsing</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "SIEM Log Collection and Parsing" course.</p>
+</td>
+  </tr>
+                                  <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/d3ee3d50-af52-47e7-adc2-e2f4ad73523f'><img src='letsdefend-img/siem3-badge.png' width='150'></a>
+      <p><strong>SIEM Alert Generation</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "SIEM Alert Generation" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/691dea7d-4a98-4fba-ab27-be446d7bdc78'><img src='letsdefend-img/siem4-badge.png' width='150'></a>
+      <p><strong>SIEM Log Search, Analysis and Reporting</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "SIEM Log Search, Analysis and Reporting" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/995efeea-08cf-4262-9a70-2c2b5757e665'><img src='letsdefend-img/siem5-badge.png' width='150'></a>
+      <p><strong>SIEM Alert Tuning</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "SIEM Alert Tuning" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/5aea627b-d1a2-424a-8a8a-9748965234ce'><img src='letsdefend-img/soar-1-badge.png' width='150'></a>
+      <p><strong>SOAR Fundamentals</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "SOAR Fundamentals" course.</p>
+</td>
+                                  <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/3eebb627-001c-4f8b-9bdc-1fe6818ab988'><img src='letsdefend-img/soar-2-badge.png' width='150'></a>
+      <p><strong>Open Source SOAR: TheHive</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Open Source SOAR: TheHive" course.</p>
+</td>
+  </tr>
+                                    <tr>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/42d4ae9b-b85e-4a36-9fb2-ed061556b1b2'><img src='letsdefend-img/soar-3-badge.png' width='150'></a>
+      <p><strong>Advanced SOAR</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Advanced SOAR" course.</p>
+</td>
   </tr>
 </table>
 
