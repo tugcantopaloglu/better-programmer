@@ -492,6 +492,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Network Security Designer</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Network Design and Security Products" course.</p>
 </td>
+          <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/42d4ae9b-b85e-4a36-9fb2-ed061556b1b2'><img src='letsdefend-img/soar-3-badge.png' width='150'></a>
+      <p><strong>Advanced SOAR</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Advanced SOAR" course.</p>
+</td>
   </tr>
                         <tr>
           <td align="center">
@@ -653,13 +658,6 @@ _**Badges (Click on the badges to verify and see more details):**_
 <a href='https://app.letsdefend.io/my-badges/detail/3eebb627-001c-4f8b-9bdc-1fe6818ab988'><img src='letsdefend-img/soar-2-badge.png' width='150'></a>
       <p><strong>Open Source SOAR: TheHive</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Open Source SOAR: TheHive" course.</p>
-</td>
-  </tr>
-                                    <tr>
-          <td align="center">
-<a href='https://app.letsdefend.io/my-badges/detail/42d4ae9b-b85e-4a36-9fb2-ed061556b1b2'><img src='letsdefend-img/soar-3-badge.png' width='150'></a>
-      <p><strong>Advanced SOAR</strong></p>
-      <p>Tuğcan Topaloğlu has completed the "Advanced SOAR" course.</p>
 </td>
   </tr>
 </table>
