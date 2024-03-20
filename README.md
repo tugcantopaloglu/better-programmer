@@ -100,7 +100,7 @@ _**Certificates (Click on the links to verify and see more details):**_
 -Malware Analysis Certificate  ( https://app.letsdefend.io/certificate/show/50ad9133-09e8-41c1-98fa-a47a47b515c7 )
 ![cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/9d05da20-4049-4470-8819-f17fc1ebc74b)   
 
--Detection Engineering Learning Path Certification ( https://app.letsdefend.io/certificate/show/9d991914-6ed4-4a5f-8ff6-d6565492dfa3 )
+-Detection Engineering Certification ( https://app.letsdefend.io/certificate/show/9d991914-6ed4-4a5f-8ff6-d6565492dfa3 )
 ![cert](https://github.com/tugcantopaloglu/better-programmer/assets/53763911/9f7ab675-5254-4a51-bf98-f345f4431859)
 
 -Incident Responder Practical Certification ( https://app.letsdefend.io/certificate/show/7dcb582d-5447-4e09-926b-62bc2a865dee )
