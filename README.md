@@ -664,6 +664,11 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Advanced SOAR</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Advanced SOAR" course.</p>
 </td>
+     <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/2912ebee5402475a9c0a80094ebcfa1e'><img src='letsdefend-img/vba-malware.png' width='150'></a>
+      <p><strong>Macro Expert</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Malicious VBA" challenge.</p>
+</td>
 </tr>
 </table>
 
