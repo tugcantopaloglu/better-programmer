@@ -7,7 +7,8 @@ Exercises List
 -TryHackMe  
 -HackerOne  
 -BugBounty  
--HTB Academy  
+-HTB Academy
+-Letsdefend   
 
 **HTB Academy**
 _**Certificates (Click on the certificates to verify and see more details):**_   
