@@ -669,6 +669,16 @@ _**Badges (Click on the badges to verify and see more details):**_
       <p><strong>Macro Expert</strong></p>
       <p>Tuğcan Topaloğlu has completed the "Malicious VBA" challenge.</p>
 </td>
+       <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/96e19fa5-a531-4898-839c-63b1e67841ee'><img src='letsdefend-img/detection-learning-path-badge.PNG' width='150'></a>
+      <p><strong>Detection Engineering Learning Path</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "Detection Engineering Learning Path".</p>
+</td>
+       <td align="center">
+<a href='https://app.letsdefend.io/my-badges/detail/e9b61997-72d6-4e6b-a649-0bb5f54a9628'><img src='letsdefend-img/macos-malware-badge.png' width='150'></a>
+      <p><strong>macOS Malware</strong></p>
+      <p>Tuğcan Topaloğlu has completed the "macOS Malware" challenge.</p>
+</td>
 </tr>
 </table>
 
