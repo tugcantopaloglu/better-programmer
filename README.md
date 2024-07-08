@@ -10,6 +10,11 @@ Exercises List
 -HTB Academy   
 -Letsdefend   
 
+**TryHackMe**
+_**Certificates (Click on the certificates to verify and see more details):**_   
+-Jr. Penetration Tester Certification  ( https://app.letsdefend.io/certificate/show/c70a2f5d-a613-48d2-be25-e24ab0614e94 )
+<a href='https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AHG8ZKAA1Q.png'><img src='https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AHG8ZKAA1Q.png'></a>
+
 **HTB Academy**
 _**Certificates (Click on the certificates to verify and see more details):**_   
 
@@ -681,12 +686,3 @@ _**Badges (Click on the badges to verify and see more details):**_
 </td>
 </tr>
 </table>
-
-**TryHackMe**
-_**Certificates (Click on the certificates to verify and see more details):**_   
-
-_in progress_
-
-_**Badges (Click on the badges to verify and see more details):**_   
-
-_in progress_
