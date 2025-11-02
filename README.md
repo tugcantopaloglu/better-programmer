@@ -9,6 +9,8 @@ Exercises List
 -BugBounty  
 -HTB Academy   
 -Letsdefend   
+-OSCP
+-INE
 
 **TryHackMe**
 _**Certificates (Click on the certificates to verify and see more details):**_   
