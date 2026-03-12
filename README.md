@@ -14,6 +14,8 @@ Exercises List
 -Letsdefend   
 -OSCP
 -INE
+-OSCP
+-REV ENGINEERING
 
 **TryHackMe**
 _**Certificates (Click on the certificates to verify and see more details):**_   
